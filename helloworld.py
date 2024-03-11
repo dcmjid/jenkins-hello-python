@@ -1,2 +1,4 @@
 
-print("Hello world")
+print("Hello world from the github")
+
+print("Hi dear students")
